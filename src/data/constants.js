@@ -1,9 +1,9 @@
-import webteckImg from '/Users/ravip/Downloads/Portfolio-Youtube-master/Portfolio-Youtube-master/src/data/webteck.jpg'; // <-- Add this at the top
-import AppnityImg from '/Users/ravip/Downloads/Portfolio-Youtube-master/Portfolio-Youtube-master/src/data/Appnity.jpg'; // <-- Add this at the top
+import webteckImg from '/Users/ravip/Downloads/Portfolio-Youtube-master/Portfolio-Youtube-master/src/images/webteck.jpg'; // <-- Add this at the top
+import AppnityImg from '/Users/ravip/Downloads/Portfolio-Youtube-master/Portfolio-Youtube-master/src/images/Appnity.jpg'; // <-- Add this at the top
 
-import kvpendaarkarImg from '/Users/ravip/Downloads/Portfolio-Youtube-master/Portfolio-Youtube-master/src/data/kvpendaarkar.jpeg'; // <-- Add this at the top
-import iraglobalImg from '/Users/ravip/Downloads/Portfolio-Youtube-master/Portfolio-Youtube-master/src/data/iraglobal.jpeg'; // <-- Add this at the top
-import sakharamImg from '/Users/ravip/Downloads/Portfolio-Youtube-master/Portfolio-Youtube-master/src/data/sakharam.jpeg'; // <-- Add this at the top
+import kvpendaarkarImg from '/Users/ravip/Downloads/Portfolio-Youtube-master/Portfolio-Youtube-master/src/images/kvpendaarkar(1).jpeg'; // <-- Add this at the top
+import iraglobalImg from '/Users/ravip/Downloads/Portfolio-Youtube-master/Portfolio-Youtube-master/src/images/iraglobal(1).jpeg'; // <-- Add this at the top
+import sakharamImg from '/Users/ravip/Downloads/Portfolio-Youtube-master/Portfolio-Youtube-master/src/images/sakharam(1).jpeg'; // <-- Add this at the top
 
 
 
