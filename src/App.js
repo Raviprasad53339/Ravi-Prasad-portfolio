@@ -1,9 +1,9 @@
 import { ThemeProvider } from "styled-components"; 
-import { useState } from "react";
+import React, { useState } from "react";
 import { darkTheme, lightTheme } from './utils/Themes.js'
 import Navbar from "./components/Navbar";
 import './App.css';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom';
 import HeroSection from "./components/HeroSection";
 // Removed About
 import Skills from "./components/Skills";
@@ -33,7 +33,7 @@ function App() {
 
   return (
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
-      <Router>
+      <Router basename="/Ravi-Prasad-portfolio">
         <Navbar />
         <Body>
           <HeroSection />
