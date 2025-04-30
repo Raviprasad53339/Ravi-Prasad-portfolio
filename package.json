@@ -1,7 +1,7 @@
 {
   "name": "ravi-prasad-portfolio",
   "version": "0.1.0",
-  "homepage": "https://ravi-prasad.github.io/portfolio",
+  "homepage": "https://raviprasad53339.github.io/Ravi-Prasad-portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
